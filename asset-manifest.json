@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/desty/static/css/main.090654d3.css",
+    "main.js": "/desty/static/js/main.bbe52082.js",
+    "static/js/787.6516b197.chunk.js": "/desty/static/js/787.6516b197.chunk.js",
+    "static/media/first.png": "/desty/static/media/first.f242054a5269f83ea7ed.png",
+    "static/media/mac.png": "/desty/static/media/mac.6a9f201d43290b8536b4.png",
+    "static/media/bg2.png": "/desty/static/media/bg2.705dbbfb43ba467dd994.png",
+    "static/media/second.png": "/desty/static/media/second.8a976e032a6ad00c2897.png",
+    "static/media/swiperBac.png": "/desty/static/media/swiperBac.72e5d62299f9e9e2a3dc.png",
+    "static/media/bg3.png": "/desty/static/media/bg3.71236438795d594f2a50.png",
+    "static/media/bg1.png": "/desty/static/media/bg1.44277c643f9be6dd2177.png",
+    "static/media/affiliate.png": "/desty/static/media/affiliate.5e105c1fc1b5f433b4af.png",
+    "static/media/first2.png": "/desty/static/media/first2.f451fe3110eced8e7a2b.png",
+    "static/media/banner1.png": "/desty/static/media/banner1.b1be268a11752d7d6d9f.png",
+    "static/media/content.png": "/desty/static/media/content.0624dd9e828014c25dfc.png",
+    "static/media/banner5.png": "/desty/static/media/banner5.967070784a4fa84b283b.png",
+    "static/media/business.png": "/desty/static/media/business.e7335b651041095bd703.png",
+    "static/media/traffic.jpg": "/desty/static/media/traffic.e06e1fe5e036734df0ce.jpg",
+    "static/media/design.png": "/desty/static/media/design.4903c7397bfceca31808.png",
+    "static/media/banner4.png": "/desty/static/media/banner4.a1b562812e745e5cb009.png",
+    "static/media/banner2.png": "/desty/static/media/banner2.2786b231c48d59ff4d37.png",
+    "static/media/banner3.png": "/desty/static/media/banner3.06a38feca3dee1dc8aa9.png",
+    "static/media/banner6.png": "/desty/static/media/banner6.761acaff8e1b9dea4db8.png",
+    "static/media/analytics.png": "/desty/static/media/analytics.55bcff1cd4382cc1867c.png",
+    "static/media/payment.jpg": "/desty/static/media/payment.d758427098d6c8b705a9.jpg",
+    "static/media/cursor.ico": "/desty/static/media/cursor.938c4a00d7af2476ce02.ico",
+    "static/media/choky.png": "/desty/static/media/choky.a97bd234b6acdc5d4e1a.png",
+    "static/media/greyspolii.png": "/desty/static/media/greyspolii.6eb4a6e5f52fc6dc6230.png",
+    "static/media/logo_page.svg": "/desty/static/media/logo_page.39920b2609f815c210a4140a848ee5b1.svg",
+    "static/media/dagelan.png": "/desty/static/media/dagelan.349d972bb232e3e63c33.png",
+    "static/media/logo.svg": "/desty/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/desty/index.html",
+    "main.090654d3.css.map": "/desty/static/css/main.090654d3.css.map",
+    "main.bbe52082.js.map": "/desty/static/js/main.bbe52082.js.map",
+    "787.6516b197.chunk.js.map": "/desty/static/js/787.6516b197.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.090654d3.css",
+    "static/js/main.bbe52082.js"
+  ]
+}
